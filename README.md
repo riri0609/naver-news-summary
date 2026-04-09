@@ -1,5 +1,6 @@
 # 실시간 뉴스 요약
 
+안녕 반가워
 네이버 뉴스 검색 API로 기사를 가져온 뒤, OpenAI로 **요약 · 키워드(중요도) · 맥락 기반 감정 · 카테고리 · 트렌드 인사이트**를 한 번에 보여주는 [Next.js](https://nextjs.org) 웹 앱입니다.
 
 **저장소:** [github.com/riri0609/naver-news-summary](https://github.com/riri0609/naver-news-summary)
